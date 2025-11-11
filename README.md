@@ -177,7 +177,6 @@ strings.xml
 <img width="1919" height="1079" alt="Screenshot 2025-09-16 082942" src="https://github.com/user-attachments/assets/cddc2ce0-154a-470c-ae62-901802551b49" />
 
 
-<img width="1919" height="1076" alt="Untitled design (9)" src="https://github.com/user-attachments/assets/46089697-004e-4467-965d-93875c799599" />
 
 <img width="1919" height="1076" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/030b93b7-46ac-432a-beec-e8608c1539f2" />
 
